@@ -6,7 +6,6 @@
 
 ><h3>QuickPerf is a testing library for Java to quickly evaluate and improve some performance-related properties</h3>
 
-<br />
 <div align="center">
 https://quickperf.io/
 </div>
